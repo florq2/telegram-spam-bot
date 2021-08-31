@@ -1,0 +1,18 @@
+{
+  "name": "ocebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "telegraf": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.15.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
